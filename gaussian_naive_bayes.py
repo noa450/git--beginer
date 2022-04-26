@@ -1,6 +1,6 @@
 from typing import NoReturn
-from ...base import BaseEstimator
 import numpy as np
+import math
 
 class GaussianNaiveBayes(BaseEstimator):
     """
