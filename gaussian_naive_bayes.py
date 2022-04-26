@@ -2,6 +2,11 @@ from typing import NoReturn
 import numpy as np
 import math
 
+
+
+y = 6
+
+
 class GaussianNaiveBayes(BaseEstimator):
     """
     Gaussian Naive-Bayes classifier
