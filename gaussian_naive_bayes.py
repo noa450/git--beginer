@@ -1,6 +1,7 @@
 from typing import NoReturn
 import numpy as np
 import math
+x = "hi"
 
 class GaussianNaiveBayes(BaseEstimator):
     """
